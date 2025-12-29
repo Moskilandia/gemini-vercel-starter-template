@@ -9,4 +9,4 @@
   },
   "include": ["vite.config.ts"]
 }
-TS6310: Referenced project may not disable emit
+fix: correct tsconfig.node.json for Vite tooling
