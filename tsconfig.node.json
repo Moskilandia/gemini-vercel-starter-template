@@ -9,4 +9,5 @@
   },
   "include": ["vite.config.ts"]
 }
-fix: finalize tsconfig.node.json for Vite
+fix: correct tsconfig.node.json for Vite
+
