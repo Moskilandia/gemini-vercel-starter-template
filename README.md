@@ -24,4 +24,3 @@ Minimal **Vite + React + TypeScript** starter that deploys cleanly on **Vercel**
 npm install
 npm run dev
 ```
-chore: force fresh build
