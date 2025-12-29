@@ -17,3 +17,4 @@
   },
   "include": ["src"]
 }
+fix: simplify tsconfig.json for Vite frontend
